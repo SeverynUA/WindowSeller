@@ -1,0 +1,128 @@
+C:\Users\coolm\source\repos\Exam2.0\Exam2.0\bin\Debug\net7.0-windows\Exam2.0.exe
+C:\Users\coolm\source\repos\Exam2.0\Exam2.0\bin\Debug\net7.0-windows\Exam2.0.deps.json
+C:\Users\coolm\source\repos\Exam2.0\Exam2.0\bin\Debug\net7.0-windows\Exam2.0.runtimeconfig.json
+C:\Users\coolm\source\repos\Exam2.0\Exam2.0\bin\Debug\net7.0-windows\Exam2.0.dll
+C:\Users\coolm\source\repos\Exam2.0\Exam2.0\bin\Debug\net7.0-windows\Exam2.0.pdb
+C:\Users\coolm\source\repos\Exam2.0\Exam2.0\obj\Debug\net7.0-windows\Exam2._0.Customer.resources
+C:\Users\coolm\source\repos\Exam2.0\Exam2.0\obj\Debug\net7.0-windows\Exam2._0.LogIn.resources
+C:\Users\coolm\source\repos\Exam2.0\Exam2.0\obj\Debug\net7.0-windows\Exam2._0.Maneger.resources
+C:\Users\coolm\source\repos\Exam2.0\Exam2.0\obj\Debug\net7.0-windows\Exam2.0.csproj.GenerateResource.cache
+C:\Users\coolm\source\repos\Exam2.0\Exam2.0\obj\Debug\net7.0-windows\Exam2.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\coolm\source\repos\Exam2.0\Exam2.0\obj\Debug\net7.0-windows\Exam2.0.AssemblyInfoInputs.cache
+C:\Users\coolm\source\repos\Exam2.0\Exam2.0\obj\Debug\net7.0-windows\Exam2.0.AssemblyInfo.cs
+C:\Users\coolm\source\repos\Exam2.0\Exam2.0\obj\Debug\net7.0-windows\Exam2.0.csproj.CoreCompileInputs.cache
+C:\Users\coolm\source\repos\Exam2.0\Exam2.0\obj\Debug\net7.0-windows\Exam2.0.dll
+C:\Users\coolm\source\repos\Exam2.0\Exam2.0\obj\Debug\net7.0-windows\refint\Exam2.0.dll
+C:\Users\coolm\source\repos\Exam2.0\Exam2.0\obj\Debug\net7.0-windows\Exam2.0.pdb
+C:\Users\coolm\source\repos\Exam2.0\Exam2.0\obj\Debug\net7.0-windows\Exam2.0.genruntimeconfig.cache
+C:\Users\coolm\source\repos\Exam2.0\Exam2.0\obj\Debug\net7.0-windows\ref\Exam2.0.dll
+C:\Users\coolm\source\repos\Exam2.0\Exam2.0\bin\Debug\net7.0-windows\Azure.Core.dll
+C:\Users\coolm\source\repos\Exam2.0\Exam2.0\bin\Debug\net7.0-windows\Azure.Identity.dll
+C:\Users\coolm\source\repos\Exam2.0\Exam2.0\bin\Debug\net7.0-windows\Humanizer.dll
+C:\Users\coolm\source\repos\Exam2.0\Exam2.0\bin\Debug\net7.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\coolm\source\repos\Exam2.0\Exam2.0\bin\Debug\net7.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\coolm\source\repos\Exam2.0\Exam2.0\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\coolm\source\repos\Exam2.0\Exam2.0\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\coolm\source\repos\Exam2.0\Exam2.0\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\coolm\source\repos\Exam2.0\Exam2.0\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\coolm\source\repos\Exam2.0\Exam2.0\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\coolm\source\repos\Exam2.0\Exam2.0\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\coolm\source\repos\Exam2.0\Exam2.0\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\coolm\source\repos\Exam2.0\Exam2.0\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\coolm\source\repos\Exam2.0\Exam2.0\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\coolm\source\repos\Exam2.0\Exam2.0\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\coolm\source\repos\Exam2.0\Exam2.0\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\coolm\source\repos\Exam2.0\Exam2.0\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\coolm\source\repos\Exam2.0\Exam2.0\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\coolm\source\repos\Exam2.0\Exam2.0\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\coolm\source\repos\Exam2.0\Exam2.0\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\coolm\source\repos\Exam2.0\Exam2.0\bin\Debug\net7.0-windows\Microsoft.Identity.Client.dll
+C:\Users\coolm\source\repos\Exam2.0\Exam2.0\bin\Debug\net7.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\coolm\source\repos\Exam2.0\Exam2.0\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\coolm\source\repos\Exam2.0\Exam2.0\bin\Debug\net7.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\coolm\source\repos\Exam2.0\Exam2.0\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\coolm\source\repos\Exam2.0\Exam2.0\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\coolm\source\repos\Exam2.0\Exam2.0\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\coolm\source\repos\Exam2.0\Exam2.0\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\coolm\source\repos\Exam2.0\Exam2.0\bin\Debug\net7.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\coolm\source\repos\Exam2.0\Exam2.0\bin\Debug\net7.0-windows\Mono.TextTemplating.dll
+C:\Users\coolm\source\repos\Exam2.0\Exam2.0\bin\Debug\net7.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\coolm\source\repos\Exam2.0\Exam2.0\bin\Debug\net7.0-windows\System.Memory.Data.dll
+C:\Users\coolm\source\repos\Exam2.0\Exam2.0\bin\Debug\net7.0-windows\System.Runtime.Caching.dll
+C:\Users\coolm\source\repos\Exam2.0\Exam2.0\bin\Debug\net7.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\coolm\source\repos\Exam2.0\Exam2.0\bin\Debug\net7.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\coolm\source\repos\Exam2.0\Exam2.0\bin\Debug\net7.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\coolm\source\repos\Exam2.0\Exam2.0\bin\Debug\net7.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\coolm\source\repos\Exam2.0\Exam2.0\bin\Debug\net7.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\coolm\source\repos\Exam2.0\Exam2.0\bin\Debug\net7.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\coolm\source\repos\Exam2.0\Exam2.0\bin\Debug\net7.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\coolm\source\repos\Exam2.0\Exam2.0\obj\Debug\net7.0-windows\Exam2.0.csproj.AssemblyReference.cache
+C:\Users\coolm\source\repos\Exam2.0\Exam2.0\obj\Debug\net7.0-windows\Exam2.0.csproj.CopyComplete
+C:\Users\coolm\OneDrive\STEP\FOURTH semester\Course project on .NET Framework\Exam_Project\Exam2.0\Exam2.0\bin\Debug\net7.0-windows\Exam2.0.exe
+C:\Users\coolm\OneDrive\STEP\FOURTH semester\Course project on .NET Framework\Exam_Project\Exam2.0\Exam2.0\bin\Debug\net7.0-windows\Exam2.0.deps.json
+C:\Users\coolm\OneDrive\STEP\FOURTH semester\Course project on .NET Framework\Exam_Project\Exam2.0\Exam2.0\bin\Debug\net7.0-windows\Exam2.0.runtimeconfig.json
+C:\Users\coolm\OneDrive\STEP\FOURTH semester\Course project on .NET Framework\Exam_Project\Exam2.0\Exam2.0\bin\Debug\net7.0-windows\Exam2.0.dll
+C:\Users\coolm\OneDrive\STEP\FOURTH semester\Course project on .NET Framework\Exam_Project\Exam2.0\Exam2.0\bin\Debug\net7.0-windows\Exam2.0.pdb
+C:\Users\coolm\OneDrive\STEP\FOURTH semester\Course project on .NET Framework\Exam_Project\Exam2.0\Exam2.0\bin\Debug\net7.0-windows\Azure.Core.dll
+C:\Users\coolm\OneDrive\STEP\FOURTH semester\Course project on .NET Framework\Exam_Project\Exam2.0\Exam2.0\bin\Debug\net7.0-windows\Azure.Identity.dll
+C:\Users\coolm\OneDrive\STEP\FOURTH semester\Course project on .NET Framework\Exam_Project\Exam2.0\Exam2.0\bin\Debug\net7.0-windows\Humanizer.dll
+C:\Users\coolm\OneDrive\STEP\FOURTH semester\Course project on .NET Framework\Exam_Project\Exam2.0\Exam2.0\bin\Debug\net7.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\coolm\OneDrive\STEP\FOURTH semester\Course project on .NET Framework\Exam_Project\Exam2.0\Exam2.0\bin\Debug\net7.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\coolm\OneDrive\STEP\FOURTH semester\Course project on .NET Framework\Exam_Project\Exam2.0\Exam2.0\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\coolm\OneDrive\STEP\FOURTH semester\Course project on .NET Framework\Exam_Project\Exam2.0\Exam2.0\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\coolm\OneDrive\STEP\FOURTH semester\Course project on .NET Framework\Exam_Project\Exam2.0\Exam2.0\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\coolm\OneDrive\STEP\FOURTH semester\Course project on .NET Framework\Exam_Project\Exam2.0\Exam2.0\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\coolm\OneDrive\STEP\FOURTH semester\Course project on .NET Framework\Exam_Project\Exam2.0\Exam2.0\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\coolm\OneDrive\STEP\FOURTH semester\Course project on .NET Framework\Exam_Project\Exam2.0\Exam2.0\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\coolm\OneDrive\STEP\FOURTH semester\Course project on .NET Framework\Exam_Project\Exam2.0\Exam2.0\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\coolm\OneDrive\STEP\FOURTH semester\Course project on .NET Framework\Exam_Project\Exam2.0\Exam2.0\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\coolm\OneDrive\STEP\FOURTH semester\Course project on .NET Framework\Exam_Project\Exam2.0\Exam2.0\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\coolm\OneDrive\STEP\FOURTH semester\Course project on .NET Framework\Exam_Project\Exam2.0\Exam2.0\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\coolm\OneDrive\STEP\FOURTH semester\Course project on .NET Framework\Exam_Project\Exam2.0\Exam2.0\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\coolm\OneDrive\STEP\FOURTH semester\Course project on .NET Framework\Exam_Project\Exam2.0\Exam2.0\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\coolm\OneDrive\STEP\FOURTH semester\Course project on .NET Framework\Exam_Project\Exam2.0\Exam2.0\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\coolm\OneDrive\STEP\FOURTH semester\Course project on .NET Framework\Exam_Project\Exam2.0\Exam2.0\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\coolm\OneDrive\STEP\FOURTH semester\Course project on .NET Framework\Exam_Project\Exam2.0\Exam2.0\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\coolm\OneDrive\STEP\FOURTH semester\Course project on .NET Framework\Exam_Project\Exam2.0\Exam2.0\bin\Debug\net7.0-windows\Microsoft.Identity.Client.dll
+C:\Users\coolm\OneDrive\STEP\FOURTH semester\Course project on .NET Framework\Exam_Project\Exam2.0\Exam2.0\bin\Debug\net7.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\coolm\OneDrive\STEP\FOURTH semester\Course project on .NET Framework\Exam_Project\Exam2.0\Exam2.0\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\coolm\OneDrive\STEP\FOURTH semester\Course project on .NET Framework\Exam_Project\Exam2.0\Exam2.0\bin\Debug\net7.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\coolm\OneDrive\STEP\FOURTH semester\Course project on .NET Framework\Exam_Project\Exam2.0\Exam2.0\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\coolm\OneDrive\STEP\FOURTH semester\Course project on .NET Framework\Exam_Project\Exam2.0\Exam2.0\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\coolm\OneDrive\STEP\FOURTH semester\Course project on .NET Framework\Exam_Project\Exam2.0\Exam2.0\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\coolm\OneDrive\STEP\FOURTH semester\Course project on .NET Framework\Exam_Project\Exam2.0\Exam2.0\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\coolm\OneDrive\STEP\FOURTH semester\Course project on .NET Framework\Exam_Project\Exam2.0\Exam2.0\bin\Debug\net7.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\coolm\OneDrive\STEP\FOURTH semester\Course project on .NET Framework\Exam_Project\Exam2.0\Exam2.0\bin\Debug\net7.0-windows\Mono.TextTemplating.dll
+C:\Users\coolm\OneDrive\STEP\FOURTH semester\Course project on .NET Framework\Exam_Project\Exam2.0\Exam2.0\bin\Debug\net7.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\coolm\OneDrive\STEP\FOURTH semester\Course project on .NET Framework\Exam_Project\Exam2.0\Exam2.0\bin\Debug\net7.0-windows\System.Memory.Data.dll
+C:\Users\coolm\OneDrive\STEP\FOURTH semester\Course project on .NET Framework\Exam_Project\Exam2.0\Exam2.0\bin\Debug\net7.0-windows\System.Runtime.Caching.dll
+C:\Users\coolm\OneDrive\STEP\FOURTH semester\Course project on .NET Framework\Exam_Project\Exam2.0\Exam2.0\bin\Debug\net7.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\coolm\OneDrive\STEP\FOURTH semester\Course project on .NET Framework\Exam_Project\Exam2.0\Exam2.0\bin\Debug\net7.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\coolm\OneDrive\STEP\FOURTH semester\Course project on .NET Framework\Exam_Project\Exam2.0\Exam2.0\bin\Debug\net7.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\coolm\OneDrive\STEP\FOURTH semester\Course project on .NET Framework\Exam_Project\Exam2.0\Exam2.0\bin\Debug\net7.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\coolm\OneDrive\STEP\FOURTH semester\Course project on .NET Framework\Exam_Project\Exam2.0\Exam2.0\bin\Debug\net7.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\coolm\OneDrive\STEP\FOURTH semester\Course project on .NET Framework\Exam_Project\Exam2.0\Exam2.0\bin\Debug\net7.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\coolm\OneDrive\STEP\FOURTH semester\Course project on .NET Framework\Exam_Project\Exam2.0\Exam2.0\bin\Debug\net7.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\coolm\OneDrive\STEP\FOURTH semester\Course project on .NET Framework\Exam_Project\Exam2.0\Exam2.0\obj\Debug\net7.0-windows\Exam2.0.csproj.AssemblyReference.cache
+C:\Users\coolm\OneDrive\STEP\FOURTH semester\Course project on .NET Framework\Exam_Project\Exam2.0\Exam2.0\obj\Debug\net7.0-windows\Exam2._0.Customer.resources
+C:\Users\coolm\OneDrive\STEP\FOURTH semester\Course project on .NET Framework\Exam_Project\Exam2.0\Exam2.0\obj\Debug\net7.0-windows\Exam2._0.LogIn.resources
+C:\Users\coolm\OneDrive\STEP\FOURTH semester\Course project on .NET Framework\Exam_Project\Exam2.0\Exam2.0\obj\Debug\net7.0-windows\Exam2._0.Maneger.resources
+C:\Users\coolm\OneDrive\STEP\FOURTH semester\Course project on .NET Framework\Exam_Project\Exam2.0\Exam2.0\obj\Debug\net7.0-windows\Exam2.0.csproj.GenerateResource.cache
+C:\Users\coolm\OneDrive\STEP\FOURTH semester\Course project on .NET Framework\Exam_Project\Exam2.0\Exam2.0\obj\Debug\net7.0-windows\Exam2.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\coolm\OneDrive\STEP\FOURTH semester\Course project on .NET Framework\Exam_Project\Exam2.0\Exam2.0\obj\Debug\net7.0-windows\Exam2.0.AssemblyInfoInputs.cache
+C:\Users\coolm\OneDrive\STEP\FOURTH semester\Course project on .NET Framework\Exam_Project\Exam2.0\Exam2.0\obj\Debug\net7.0-windows\Exam2.0.AssemblyInfo.cs
+C:\Users\coolm\OneDrive\STEP\FOURTH semester\Course project on .NET Framework\Exam_Project\Exam2.0\Exam2.0\obj\Debug\net7.0-windows\Exam2.0.csproj.CoreCompileInputs.cache
+C:\Users\coolm\OneDrive\STEP\FOURTH semester\Course project on .NET Framework\Exam_Project\Exam2.0\Exam2.0\obj\Debug\net7.0-windows\Exam2.0.csproj.CopyComplete
+C:\Users\coolm\OneDrive\STEP\FOURTH semester\Course project on .NET Framework\Exam_Project\Exam2.0\Exam2.0\obj\Debug\net7.0-windows\Exam2.0.dll
+C:\Users\coolm\OneDrive\STEP\FOURTH semester\Course project on .NET Framework\Exam_Project\Exam2.0\Exam2.0\obj\Debug\net7.0-windows\refint\Exam2.0.dll
+C:\Users\coolm\OneDrive\STEP\FOURTH semester\Course project on .NET Framework\Exam_Project\Exam2.0\Exam2.0\obj\Debug\net7.0-windows\Exam2.0.pdb
+C:\Users\coolm\OneDrive\STEP\FOURTH semester\Course project on .NET Framework\Exam_Project\Exam2.0\Exam2.0\obj\Debug\net7.0-windows\Exam2.0.genruntimeconfig.cache
+C:\Users\coolm\OneDrive\STEP\FOURTH semester\Course project on .NET Framework\Exam_Project\Exam2.0\Exam2.0\obj\Debug\net7.0-windows\ref\Exam2.0.dll
+C:\Users\coolm\OneDrive\STEP\FOURTH semester\Course project on .NET Framework\Exam_Project\Exam2.0\Exam2.0\bin\Debug\net7.0-windows\EntityFramework.SqlServer.dll
+C:\Users\coolm\OneDrive\STEP\FOURTH semester\Course project on .NET Framework\Exam_Project\Exam2.0\Exam2.0\bin\Debug\net7.0-windows\EntityFramework.dll
+C:\Users\coolm\OneDrive\STEP\FOURTH semester\Course project on .NET Framework\Exam_Project\Exam2.0\Exam2.0\bin\Debug\net7.0-windows\System.Data.SqlClient.dll
+C:\Users\coolm\OneDrive\STEP\FOURTH semester\Course project on .NET Framework\Exam_Project\Exam2.0\Exam2.0\bin\Debug\net7.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\coolm\OneDrive\STEP\FOURTH semester\Course project on .NET Framework\Exam_Project\Exam2.0\Exam2.0\bin\Debug\net7.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\coolm\OneDrive\STEP\FOURTH semester\Course project on .NET Framework\Exam_Project\Exam2.0\Exam2.0\bin\Debug\net7.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\coolm\OneDrive\STEP\FOURTH semester\Course project on .NET Framework\Exam_Project\Exam2.0\Exam2.0\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\coolm\OneDrive\STEP\FOURTH semester\Course project on .NET Framework\Exam_Project\Exam2.0\Exam2.0\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
